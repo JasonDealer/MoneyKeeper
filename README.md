@@ -1,0 +1,3 @@
+# MoneyKeeper
+
+Simple budjet calculator
